@@ -27,12 +27,11 @@ body {
 ::selection {
     background-color: var(--orange-font-color);
 }
-
-.logo {
-    background-color: var(--logo-yellow);
-}
-
-.icon {
-    height: 2em;
-    width: 2em;
+.img {
+    width: 14em;
+    height: 14em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
 }
